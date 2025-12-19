@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TWE-Lite__TWE-001L_
+D High function 32 bit microcomputer module with built-in IEEE 802.15.4
+K
+F http://akizukidenshi.com/download/ds/monowireless/MNO-PDS-TWE001L-JP-2.10-2.pdf
+$ENDCMP
+#
+#End Doc Library

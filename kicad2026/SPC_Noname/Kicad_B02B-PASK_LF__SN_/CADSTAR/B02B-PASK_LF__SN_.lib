@@ -1,0 +1,18 @@
+.B02B-PASK_LF__SN_ :1 ;CONN HEADER VERT 2POS 2MM
+B02BPASKLFSN
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN B02B-PASK_LF__SN_
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (B02B-PASK(LF)(SN))
+~!Mouser Part Number (306-B02BPASKLFSN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JST-Commercial/B02B-PASKLFSN?qs=QpmGXVUTftHnV4RF3PfMgg%3D%3D)
+~!Arrow Part Number (B02B-PASK(LF)(SN))
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/b02b-pask-lf-sn/jst-manufacturing?utm_currency=USD&region=europe)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0025340.pdf)
+~!Height (7.7mm)
+~!3D_Model (B02B-PASK_LF__SN_)
+B02B-PASK_LF__SN_
+1.1!U 2.1!U 

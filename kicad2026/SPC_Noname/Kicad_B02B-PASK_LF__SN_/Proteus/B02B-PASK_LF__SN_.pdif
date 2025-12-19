@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B02B-PASK_LF__SN_"
+   (description "CONN HEADER VERT 2POS 2MM")
+   (family "CON")
+   (package "B02BPASKLFSN")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0025340.pdf")
+   (attribute "Geometry.Height" "7.7mm")
+   (attribute "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+   (attribute "Manufacturer_Part_Number" "B02B-PASK(LF)(SN)")
+   (attribute "Mouser Part Number" "306-B02BPASKLFSN")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B02B-PASKLFSN?qs=QpmGXVUTftHnV4RF3PfMgg%3D%3D")
+   (attribute "Arrow Part Number" "B02B-PASK(LF)(SN)")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/b02b-pask-lf-sn/jst-manufacturing?utm_currency=USD&region=europe")
+   (gate
+    (symbol "B02B-PASK_LF__SN_")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "B02B-PASK_LF__SN_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B02BPASKLFSN"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4 2.65)
+      (pt 2 2.65)
+      (pt 2 -2.65)
+      (pt -4 -2.65)
+      (pt -4 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4 2.65)
+      (pt 2 2.65)
+      (pt 2 -2.65)
+      (pt -4 -2.65)
+      (pt -4 2.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5 3.65)
+      (pt 4.2 3.65)
+      (pt 4.2 -3.65)
+      (pt -5 -3.65)
+      (pt -5 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 3 0)
+      (arc (pt 3.000 0.000) (pt 3.000 -0.100) (pt 3.200 0.100) (start 180.0) (sweep -180.0))
+      (pt 3.2 0)
+      (arc (pt 3.200 0.000) (pt 3.000 -0.100) (pt 3.200 0.100) (start 180.0) (sweep .0))
+      (pt 3 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -2.000 0.000) (padstack 2))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (square 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (square 1.200))
+   )
+   (padstack 2
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (round 1.200))
+   )
+   (model "B02B-PASK_LF__SN_.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

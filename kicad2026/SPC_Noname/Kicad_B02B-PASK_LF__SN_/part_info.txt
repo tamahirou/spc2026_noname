@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=B02B-PASK(LF)(SN)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2020-11-29 12:57:49
+Downloaded=2025-06-18 13:58:37
+3D=Y

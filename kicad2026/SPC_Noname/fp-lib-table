@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "B02B_PASK_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/B02B_PASK_LF__SN_")(options "")(descr ""))
+  (lib (name "KiCad_3MS1J102M2QES")(type "KiCad")(uri "${KIPRJMOD}/KiCad_3MS1J102M2QES")(options "")(descr ""))
+  (lib (name "KiCad_24FC1025-I_P")(type "KiCad")(uri "${KIPRJMOD}/KiCad_24FC1025-I_P")(options "")(descr ""))
+  (lib (name "Kicad_B02B-PASK_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Kicad_B02B-PASK_LF__SN_")(options "")(descr ""))
+  (lib (name "KiCad_DRV8835")(type "KiCad")(uri "${KIPRJMOD}/KiCad_DRV8835")(options "")(descr ""))
+  (lib (name "KiCad_RP2350B")(type "KiCad")(uri "${KIPRJMOD}/KiCad_RP2350B")(options "")(descr ""))
+  (lib (name "Kicad_switch_SS22E01G5-HA-G")(type "KiCad")(uri "${KIPRJMOD}/Kicad_switch_SS22E01G5-HA-G")(options "")(descr ""))
+  (lib (name "KiCad_TWELITE")(type "KiCad")(uri "${KIPRJMOD}/KiCad_TWELITE")(options "")(descr ""))
+  (lib (name "OKL_T_6_W12N_C")(type "KiCad")(uri "${KIPRJMOD}/OKL_T_6_W12N_C")(options "")(descr ""))
+  (lib (name "KiCad_16SEPC470M")(type "KiCad")(uri "${KIPRJMOD}/KiCad_16SEPC470M")(options "")(descr ""))
+)

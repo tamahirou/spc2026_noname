@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '24FC1025_I_P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "24FC1025-I/P" (!) = "", "DIP781W56P254L950H533Q8N", "Dual-In-Line Packages", "579-24FC1025-I/P", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/24FC1025-I-P?qs=3GBkE4%2F1xo6l3F81Pd0WoQ%3D%3D", "24FC1025-I/P", "https://www.arrow.com/en/products/24fc1025-ip/microchip-technology?region=nac", "Microchip 24FC1025-I/P Serial EEPROM Memory, 1Mbit, 400ns, 1.7  5.5 V 8-Pin PDIP", "http://componentsearchengine.com/Datasheets/3/24FC1025-I_P.pdf", "5.334 mm"
+END_PART
+
+END.

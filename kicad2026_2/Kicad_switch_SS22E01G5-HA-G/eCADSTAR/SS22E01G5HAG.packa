@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS22E01G5-HA-G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-02-27-04:29:53)
+    (mountForm default
+        (footprintRef "SS22E01G5HAG")
+        (spec "System")
+    )
+)

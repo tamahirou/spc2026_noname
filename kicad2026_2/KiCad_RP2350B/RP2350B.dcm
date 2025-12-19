@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RP2350B
+D Dual Arm Cortex-M33 or dual Hazard3 RISC-V processors @ 150MHz
+K
+F https://datasheets.raspberrypi.com/rp2350/rp2350-product-brief.pdf
+$ENDCMP
+#
+#End Doc Library

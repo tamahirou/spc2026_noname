@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16SEPC470M
+D Panasonic 470uF 16 V dc Polymer Aluminium Electrolytic Capacitor F13, OS-CON Series 5000h 10 x 13mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS22E01G5-HA-G
+D slide switch 0.5A 50VDC DPDT
+K
+F https://akizukidenshi.com/download/ds/switronic/SS22E01G5-HA-G.PDF
+$ENDCMP
+#
+#End Doc Library

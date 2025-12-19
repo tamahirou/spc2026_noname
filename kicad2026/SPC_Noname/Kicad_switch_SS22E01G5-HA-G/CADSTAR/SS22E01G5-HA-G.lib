@@ -1,0 +1,19 @@
+.SS22E01G5-HA-G :1 ;slide switch 0.5A 50VDC DPDT
+SS22E01G5HAG
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=MH1 8=MH2
+*PLB 1="NC_1" 2="COM_1" 3="NO_1" 4="NC_2" 5="COM_2" 6="NO_2" 7="MH1" 8="MH2"
+*MXP 8
+*DFN SS22E01G5-HA-G
+~!Manufacturer_Name (Switronic)
+~!Manufacturer_Part_Number (SS22E01G5-HA-G)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://akizukidenshi.com/download/ds/switronic/SS22E01G5-HA-G.PDF)
+~!Height (10.5mm)
+~!3D_Model (SS22E01G5-HA-G)
+SS22E01G5-HA-G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "B02B-PASK_LF__SN_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-12-30-09:50:40)
+    (mountForm default
+        (footprintRef "B02BPASKLFSN")
+        (spec "System")
+    )
+)

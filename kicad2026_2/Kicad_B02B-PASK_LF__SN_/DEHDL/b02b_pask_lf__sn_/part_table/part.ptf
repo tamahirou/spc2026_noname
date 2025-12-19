@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B02B_PASK_LF__SN_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "B02B-PASK(LF)(SN)" (!) = "", "B02BPASKLFSN", "Other", "306-B02BPASKLFSN", "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B02B-PASKLFSN?qs=QpmGXVUTftHnV4RF3PfMgg%3D%3D", "B02B-PASK(LF)(SN)", "https://www.arrow.com/en/products/b02b-pask-lf-sn/jst-manufacturing?utm_currency=USD&region=europe", "CONN HEADER VERT 2POS 2MM", "https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0025340.pdf", "7.7 mm"
+END_PART
+
+END.

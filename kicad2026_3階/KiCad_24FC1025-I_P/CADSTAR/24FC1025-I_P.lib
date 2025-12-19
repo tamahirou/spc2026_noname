@@ -1,0 +1,18 @@
+.24FC1025-I_P :1 ;Microchip 24FC1025-I/P Serial EEPROM Memory, 1Mbit, 400ns, 1.7  5.5 V 8-Pin PDIP
+DIP781W56P254L950H533Q8N
+*STM IC
+*NGS
+*PLB 1="A0" 2="A1" 3="A2" 4="VSS" 5="SDA" 6="SCL" 7="WP" 8="VCC"
+*MXP 8
+*DFN 24FC1025-I_P
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (24FC1025-I/P)
+~!Mouser Part Number (579-24FC1025-I/P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/24FC1025-I-P?qs=3GBkE4%2F1xo6l3F81Pd0WoQ%3D%3D)
+~!Arrow Part Number (24FC1025-I/P)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/24fc1025-ip/microchip-technology?region=nac)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/3/24FC1025-I_P.pdf)
+~!Height (5.334mm)
+~!3D_Model (24FC1025-I_P)
+"24FC1025-I_P"
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

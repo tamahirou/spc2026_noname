@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=24FC1025-I/P
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=2.1
+Released=2017-01-11 17:13:05
+Downloaded=2025-05-28 10:19:09
+3D=Y

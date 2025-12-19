@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3MS1J102M2QES
+D Switch Model 3MS1 5amps @ 120VAC or 28VDC 
+K
+F https://akizukidenshi.com/download/ds/cosland/3MS1J102M2QES.pdf
+$ENDCMP
+#
+#End Doc Library

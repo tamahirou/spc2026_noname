@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AE-DRV8835-S
+D DUAL LOW VOLTAGE H-BRIDGE IC
+K
+F https://akizukidenshi.com/download/ds/akizuki/AE-DRV8835-S_20210526.pdf
+$ENDCMP
+#
+#End Doc Library

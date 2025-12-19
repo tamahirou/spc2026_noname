@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B02B-PASK_LF__SN_
+D CONN HEADER VERT 2POS 2MM
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS41/DSANUWW0025340.pdf
+$ENDCMP
+#
+#End Doc Library

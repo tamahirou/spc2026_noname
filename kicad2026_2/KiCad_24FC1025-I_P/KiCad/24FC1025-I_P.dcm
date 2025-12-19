@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24FC1025-I_P
+D Microchip 24FC1025-I/P Serial EEPROM Memory, 1Mbit, 400ns, 1.7  5.5 V 8-Pin PDIP
+K
+F http://componentsearchengine.com/Datasheets/3/24FC1025-I_P.pdf
+$ENDCMP
+#
+#End Doc Library

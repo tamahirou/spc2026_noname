@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SS22E01G5HAG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SS22E01G5HAG")
+        (spec "default")
+    )
+)

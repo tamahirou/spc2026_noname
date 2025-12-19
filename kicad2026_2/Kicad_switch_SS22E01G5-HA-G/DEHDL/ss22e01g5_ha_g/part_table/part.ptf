@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS22E01G5_HA_G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Switronic", "SS22E01G5-HA-G" (!) = "", "SS22E01G5HAG", "Other", "", "", "", "", "slide switch 0.5A 50VDC DPDT", "https://akizukidenshi.com/download/ds/switronic/SS22E01G5-HA-G.PDF", "10.5 mm"
+END_PART
+
+END.
